@@ -1,0 +1,20 @@
+indicator_id,IndicatorName,Measure,How_Calculated,SourceName,SourceDescription,
+26,Pre-1950 Homes,Number,Number of housing units built before 1950.,US Census,United States Census,
+27,Pre-1950 Homes,Percent,Number of housing units built before 1950; divided by all housing units; expressed as percent.    ,US Census,United States Census,
+78,Pre-1960 Homes with Peeling Paint,Percent,Estimated number of households in an area that were built before 1960 and had peeling paint; divided by the total number of households in the area; expressed as percent.,NYC HVS,New York City Housing and Vacancy Survey (HVS),
+421,Children < 5 Years Old Living in Poverty,Number,Number of children less than 5 years of age living in poverty in a geographic area.,US Census,United States Census,
+422,Children < 5 Years Old Living in Poverty,Percent,Number of children less than 5 years of age living in poverty in a geographic area divided by the number of children less than 5 years of age living in a geographic area.,US Census,United States Census,
+230,Crowding,Number,Estimated number of housing units with more than 1 occupant room.,American Community Survey; 2009-2013,American Community Survey; 2009-2013,
+25,Crowding,Percent of Households,Estimated number of housing units with more than 1 occupant room; divided by the number of occupied housing units; expressed as percent.    ,American Community Survey; 2009-2013,American Community Survey; 2009-2013,
+232,Owner-Occupied Homes,Number,Estimated number of housing units occupied by the owner.    ,American Community Survey; 2009-2013,American Community Survey; 2009-2013,
+29,Owner-Occupied Homes,Percent,Estimated number of housing units occupied by the owner; divided by all occupied housing units; expressed as percent.    ,American Community Survey; 2009-2013,American Community Survey; 2009-2013,
+76,Homes with Cracks or Holes,Percent of Households,Estimated number of households in an area that reported cracks or holes in the home; divided by the number of households in the area; expressed as percent.,NYC HVS,New York City Housing and Vacancy Survey (HVS),
+80,Homes with Leaks,Percent of Households,Estimated number of households in an area that reported leaks coming from outside the unit; divided by the number of households in the area; expressed as percent.,NYC HVS,New York City Housing and Vacancy Survey (HVS),
+82,Homes near Buildings with Broken or Boarded Up Windows,Percent,Estimated number of households in an area that are near buildings with broken or boarded up windows (based on observation); divided by the number of households in the area; expressed as percent.,NYC HVS,New York City Housing and Vacancy Survey (HVS),
+84,Homes in Deteriorating or Dilapidated Buildings ,Percent,Estimated number of households in an area in deteriorated or dilapidatied buildings; divided by the number of households in the area; expressed as percent.,NYC HVS,New York City Housing and Vacancy Survey (HVS),
+86,Homes with 3 or More Maintenance Deficiencies,Percent,Estimated number of households in an area reporting three or more maintenance deficiencies (heating equipment breakdown; additional heating required; rodent infestation; cracks/holes in the walls; ceilings or floors; broken plaster/peeling paint larger than 8½ x 11 inches; toilet breakdowns; or water leaks from outside the unit); divided by the number of households in the area; expressed as percent.,NYC HVS,New York City Housing and Vacancy Survey (HVS),
+625,Adults Reporting Mold in the Home,Percent,Estimated number of adults reporting damp spots or mold in at least one room in their building; excluding the bathroom; in the past 30 days; expressed as a percent.,NYC CHS,New York City Community Health Survey (CHS),
+
+NYC Department of Health and Mental Hygiene
+Environment & Health Data Portal
+Available at: http://nyc.gov/health/tracking Accessed 03/10/2016
